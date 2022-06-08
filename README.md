@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sergeyIsrael
+- 🌱 I’m QA automation Engineer
